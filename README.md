@@ -1,1 +1,5 @@
-# animals
+# ANIMALS
+
+1. [GIRAFFE](./GIRAFFE.md)
+2. [MARKHOR](./MARKHOR.md)
+3. [WOLF](./WOLF.md)
