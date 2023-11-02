@@ -1,6 +1,6 @@
 # GIRAFFE
 
-![giraffe standing near tree at daytime](https://unsplash.com/photos/LK4qTPvWdnM)
+![giraffe](https://unsplash.com/photos/LK4qTPvWdnM)
 
 <br>
 
